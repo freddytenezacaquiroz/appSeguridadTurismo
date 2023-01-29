@@ -1,0 +1,7 @@
+{
+  "name": "appSeguridad",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
